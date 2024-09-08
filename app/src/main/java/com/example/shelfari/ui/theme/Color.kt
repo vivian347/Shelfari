@@ -2,6 +2,7 @@ package com.example.shelfari.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
+val yellow = Color(0xFFFFBD59)
 val primaryLight = Color(0xFF49672E)
 val onPrimaryLight = Color(0xFFFFFFFF)
 val primaryContainerLight = Color(0xFFCAEEA6)

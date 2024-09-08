@@ -128,5 +128,7 @@ dependencies {
     implementation (libs.accompanist.permissions)
     implementation(libs.play.services.location)
 
+    // haze
+    implementation(libs.haze)
 
 }
